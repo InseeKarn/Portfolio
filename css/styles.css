@@ -625,13 +625,13 @@ nav ul li a {
 #skills h1{
   /* border: 1px solid red; */
   font-size: 50px;
-  padding-left: 4rem;
+  
 }
 
 
 .skills-con {
   /* border: 1px solid red; */
-  
+  padding-right: 4rem;
   height: 100%;
   display: flex;
   column-gap: 2rem
