@@ -253,7 +253,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // About sec
 
-// footter
+
 
 
 // footer text movement
