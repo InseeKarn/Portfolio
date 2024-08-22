@@ -253,3 +253,43 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // About sec
 
+// footter
+
+
+// footer text movement
+
+
+
+document.querySelectorAll('.con-b-left a, .con-b-right h2').forEach(anchor => {
+  anchor.addEventListener('mouseenter', () => {
+    gsap.to(anchor, { duration: 0.01, scale: 1.01, color: '#9D81BA' });
+  });
+  anchor.addEventListener('mouseleave', () => {
+    gsap.to(anchor, { duration: 0.01, scale: 1, color: '#000000' });
+  });
+});
+
+// Movement effects
+document.querySelectorAll('.con-b-left a, .con-b-right a').forEach(anchor => {
+  let cursor = { x: 0, y: 0 };
+  anchor.addEventListener('mousemove', (e) => {
+    cursor.x = e.clientX;
+    cursor.y = e.clientY;
+    gsap.to(anchor, {
+      duration: 2,
+      x: cursor.x - (anchor.getBoundingClientRect().left + window.scrollX) - anchor.offsetWidth / 2,
+      y: cursor.y - (anchor.getBoundingClientRect().top + window.scrollY) - anchor.offsetHeight / 2,
+      ease: "power3.out",
+      overwrite: 'auto'
+    });
+  });
+  anchor.addEventListener('mouseleave', () => {
+    gsap.to(anchor, {
+      duration: 0.4,
+      x: 0,
+      y: 0,
+      ease: "power3.out",
+      overwrite: 'auto'
+    });
+  });
+});

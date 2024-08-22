@@ -709,10 +709,12 @@ nav ul li a {
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  margin-left:39.9%;
+  margin-left:42%;
   border-radius: 50px;
   margin-top: 2rem;
   margin-bottom: 2rem;
+  /* border: 1px solid red; */
+  
 }
 
 .con-l {
@@ -940,4 +942,26 @@ footer {
 }
 
 
+
+.dev h1 {
+  color: rgb(0, 0, 0);
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: clamp(30px, 3vw, 240px); /* Responsive font size */
+  letter-spacing: -0.044em;
+  line-height: 0.7;
+  margin: 0;
+  padding: 0;
+  display: block; /* Ensure each <h1> is a block element */
+  /* border:1px solid red; */
+  
+}
+
+
+
+.con-b-right h2::after{
+  color: #9D81BA;
+  transition: transform 0.01s;
+}
 
