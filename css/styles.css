@@ -713,10 +713,22 @@ nav ul li a {
 
 #contact h2 {
   font-size: 50px;
+  
 }
 
 
 .con-con {
+  /* border: 1px solid red; */
+  justify-content: center;
+  
+}
+
+.con-l {
+
+
+
+
+
   border: 1px solid rgb(0, 0, 0);
   height: 70px;
   width: 400px;
@@ -729,14 +741,10 @@ nav ul li a {
   margin-top: 2rem;
   margin-bottom: 2rem;
   /* border: 1px solid red; */
-  
-}
 
-.con-l {
-  /* border: 1px solid red; */
-  height: 30px;
-  width: 280px;
-  
+
+
+
 }
 
 .con-l i {
