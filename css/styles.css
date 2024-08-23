@@ -435,6 +435,7 @@ nav ul li a {
 #about {
   /* border: 1px solid red; */
   height: 860px;
+  padding-left: 10rem;
 }
 
 
@@ -548,6 +549,8 @@ nav ul li a {
   height: 300px;
   width: 100%;
   border-radius: 8px;
+
+  z-index: 999;
 }
 
 .work-section .thumb img {
