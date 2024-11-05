@@ -1,132 +1,51 @@
-==================================================================================================
+# Insee Karn's Portfolio
 
-DESCRIPTION:
+Welcome to my portfolio website! This is where I showcase my skills, projects, and experience in web development and design. The site is a blend of clean aesthetics, interactive design elements, and smooth navigation, built to give visitors a great user experience.
 
-LUTHER is a modern, stylish, free personal website template designed for creative individuals 
-and professionals. It is the perfect template if you wish to build an online presence and create 
-a strong first impression on all your site visitors. Luther will help you craft a personal 
-professional website wherein you can showcase your works, talents, and present yourself on the 
-web in the best possible light. On top of that, the template is versatile and easy to customize 
-so with some modifications and a bit of creativity you even use it as a portfolio site for 
-digital studios or a landing page for your projects.
+## 🌐 Website
 
-==================================================================================================
+[View Live Site](https://inseekarn-portfolio.netlify.app/)
 
+---
 
-LICENSE:
+## ✨ Features
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+- **Interactive Design:** Engaging animations and smooth transitions for an immersive user experience.
+- **Responsive Layout:** Optimized for all screen sizes, from desktop to mobile.
+- **Dynamic Content:** Showcases my latest projects and skills with links to live demos and source code.
+- **Modern Aesthetics:** Clean and modern design, focused on readability and simplicity.
 
+## 🛠️ Technologies Used
 
-Rights:
--------
+- **HTML5 & CSS3** - Structured and styled with clean, semantic code.
+- **JavaScript** - Adds interactivity and dynamic elements.
+- **GSAP** - Smooth animations to enhance user engagement.
+- **Locomotive Scroll** - Customized scrolling for a unique experience.
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+## 📂 Project Structure
 
+Here’s a quick overview of the project structure:
 
-Prohibitions:
--------------
+## 📚 Sources and Credits
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+I've used the following resources to bring this portfolio to life. Big thanks to these amazing tools and libraries!
 
+### Fonts
 
-Attribution: 
-------------
+- **[Public Sans](https://fonts.google.com/specimen/Public+Sans)** - A clean and versatile sans-serif font from Google Fonts.
+- **[DM Serif Display](https://fonts.google.com/specimen/DM+Serif+Display)** - A classic and elegant serif font, perfect for headers and titles.
 
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+### JavaScript Libraries
 
+- **[Anime.js](https://animejs.com/)** - Lightweight animation library for creating powerful and flexible animations.
+- **[Swiper](https://swiperjs.com/)** - Modern mobile-friendly slider for creating responsive carousels.
+- **[MoveTo.js](https://github.com/hsnaydd/moveTo)** - A simple library for smooth scroll animations to anchor points on the page.
+- **[Prism.js](https://prismjs.com/)** - Syntax highlighting library for displaying code snippets beautifully.
+- **[Basic Lightbox](https://basiclightbox.electerious.com/)** - A minimal lightbox for displaying images and content in a modal popup.
+- **[MailtoUI](https://mailtoui.com/)** - Utility for creating dynamic mailto links with a user-friendly UI.
+- **[Luther Theme](https://themewagon.com/themes/luther/)** - Inspiration and some elements sourced from this elegant theme by Themewagon.
 
+---
 
-If you have any questions about the License, feel free to contact us.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since LUTHER is distributed for free, support is not offered. LUTHER is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Public Sans Font (https://fonts.google.com/specimen/Public+Sans)
- - DM Serif Display (https://fonts.google.com/specimen/DM+Serif+Display)
-
-Icons:
- - Iconmonstr (https://iconmonstr.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - Anime.js (https://animejs.com/)
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Basic Lightbox (https://basiclightbox.electerious.com/)
- - MailtoUI (https://mailtoui.com/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
-
+Thanks to these resources for enhancing the quality and functionality of my portfolio!
 
